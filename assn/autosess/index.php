@@ -192,7 +192,7 @@ To test, navigate to <b>view.php</b> manually without logging in - it
 should fail with "Not logged in".
 </p>
 <p>
-In <b>view.php</b> if the <b>Logout</b> button is pressed the user should be redirected back to the 
+In <b>view.php</b> if the <b>Logout</b> link is cliked the user should be redirected back to the 
 <b>logout.php</b> page.  The <b>logout.php</b> page should clear the session and immediately 
 reditect back to <b>index.php</b>:
 <pre>
